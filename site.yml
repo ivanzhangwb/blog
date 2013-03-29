@@ -1,0 +1,14 @@
+title : 技术宅
+tagline: Blog Tagline
+author :
+  name : Ivan Zhangwenbo
+  email : ivanzhangwb@gmail.com
+  github : ivanzhangwb
+
+navigation :
+  - archive.html
+  - tags.html
+  - categories.html
+  - pages.html
+  - about.md
+  
