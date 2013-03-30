@@ -3,6 +3,7 @@ layout: post
 date: 2012-11-25 
 layout: post
 title:"一种感知数据变更解决方案"
+permalink: "dataabse-changeset"
 categories:
 - Java
 tags:

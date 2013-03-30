@@ -2,6 +2,7 @@
 date: 2012-02-06
 layout: post
 title: "自己动手编译 OpenJDK @Mac"
+permalink: "openjdk-in-mac"
 categories:
 - JVM
 tags:

@@ -2,7 +2,7 @@
 date: 2011-12-07
 layout: post
 title: 组件工作的一些思考和总结
-permalink: '/2011/idcard-component-thinking.html'
+permalink: 'idcard-component-thinking.html'
 categories:
 - Thinking
 tags:

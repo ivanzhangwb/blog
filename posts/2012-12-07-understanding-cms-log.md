@@ -3,6 +3,7 @@ layout: post
 date: 2012-12-07
 layout: post
 title: "理解CMS的GC Log"
+permalink: "understand-cms-log"
 categories:
 - Java
 tags:

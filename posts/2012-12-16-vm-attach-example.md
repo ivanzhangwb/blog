@@ -3,6 +3,7 @@ layout: post
 date: 2012-12-16
 layout: post
 title: "BTrace原理之 -- VM Attach API"
+permalink: "btrace-vm-attach-api"
 categories:
 - JVM
 tags:

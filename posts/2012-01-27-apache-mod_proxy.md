@@ -2,6 +2,7 @@
 date: 2012-01-27
 layout: post
 title: "Apache mod_proxy 与Tomcat7 完成负载均衡"
+permalink: "apache-mod-proxy"
 categories:
 - Tools
 tags:

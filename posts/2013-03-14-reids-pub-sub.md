@@ -3,6 +3,7 @@ layout: post
 date: 2013-01-04
 layout: post
 title: "Reids的PUB/SUB"
+permalink: "redis-pub-sub"
 categories:
 - Tools
 tags:

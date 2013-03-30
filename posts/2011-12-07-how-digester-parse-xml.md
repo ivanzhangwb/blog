@@ -2,7 +2,7 @@
 date: 2011-12-07
 layout: post
 title: 探求Digester解析XML思路
-permalink: '/2011/how-digester-parse-xml.html'
+permalink: 'how-digester-parse-xml.html'
 categories:
 - OpenSource
 tags:

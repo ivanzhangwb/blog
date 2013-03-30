@@ -2,6 +2,7 @@
 date: 2012-10-12
 layout: post
 title: "Apache Virtualhost"
+permalink: "apache-virtual-host"
 categories:
 - Tools
 tags:

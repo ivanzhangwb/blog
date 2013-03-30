@@ -3,6 +3,7 @@ layout: post
 date: 2013-01-04
 layout: post
 title: "诊断GC问题(1)"
+permalink: "garbage-collection-problem"
 categories:
 - JVM
 tags:

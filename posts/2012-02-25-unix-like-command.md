@@ -2,6 +2,7 @@
 date: 2012-02-25
 layout: post
 title: "常用Linux实用命令"
+permalink: "unix-like-command"
 categories:
 - Linux
 tags:

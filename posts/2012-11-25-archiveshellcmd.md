@@ -3,6 +3,7 @@ layout: post
 date: 2012-11-25 
 layout: post
 title:"自己常用的*inx命令"
+permalink: "active-shell-cmd"
 categories:
 - Linux
 tags:
