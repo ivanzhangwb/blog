@@ -1,10 +1,9 @@
 ---
 title : About Me
-description:	一个程序员
 ---
 
-# 关于咱 
-<img src="http://tp4.sinaimg.cn/1644563011/180/1300785942/1"/><br/>
+<img src="http://tp4.sinaimg.cn/1644563011/180/1300785942/1" width="100px"/>  
+
  80后:	喜好运动，热爱生活 
  程序员:专注Java领域，从事互联网开发  
  
